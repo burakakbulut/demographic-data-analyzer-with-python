@@ -2,6 +2,8 @@
 
 Bu uygulamada Pandas kütüphanesini kullanarak veri analizi yapacağız. Aşağıda 1994 Census veri tabanından çıkarılan bir demografik veri seti verilmiştir.
 
+<img width="1334" alt="adult-data" src="https://user-images.githubusercontent.com/34520028/146846317-6f90510b-699e-4603-a3e2-9a3cf38051b0.png">
+
 - Aşağıdaki soruları Pandas kütüphanesini kullanarak yanıtlayacağız.
 - Bu veri setinde hangi ırktan kaç kişi vardır? Her ırkın sayıyı gözükmelidir.
 - Erkeklerin yaş ortalaması nedir?
